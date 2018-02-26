@@ -1,1 +1,0 @@
-java -jar BMD_advDEP_Pruftool_3_1.jar
