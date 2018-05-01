@@ -1,1 +1,0 @@
-java -jar BMD_Pruftool_10_1.jar
