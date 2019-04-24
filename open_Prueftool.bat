@@ -1,1 +1,1 @@
-java -jar BMD_Prueftool_10_4.jar
+java -jar BMD_Prueftool_10_5.jar
